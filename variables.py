@@ -1,3 +1,3 @@
 animal = "mule"
 country = "zim"
-print("mule is going to zim")
+print("animal, is going to ,country!")
